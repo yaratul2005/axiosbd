@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://axiosbd.com/assets/images/logo.png" alt="AxiosBD Logo" width="200" />
+  <img src="https://axiosbd.com/templates/norm.png" alt="AxiosBD Logo" width="200" />
 </div>
 
 # 🎬 AxiosBD – Your Ultimate Movie & TV Show Streaming Platform
